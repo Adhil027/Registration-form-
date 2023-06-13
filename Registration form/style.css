@@ -1,0 +1,33 @@
+body{
+    background-color: aqua;
+    background-image: url(f.jpeg);
+}
+h1{
+    color: blue;
+    text-align: center;
+}
+
+div{
+    width: 350px;
+    height: 500px;
+    background-color: whitesmoke;
+    
+    text-align: center;
+    line-height: 3.5rem;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+    
+    
+}
+
+button{
+      border-radius: 10px;
+      width: 200px;
+      height: 30px;
+      font-size: 20px;
+      font-weight: bolder;
+      background-color: blue;
+      color: whitesmoke;
+    
+}
